@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/phar-io/manifest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/sebastian/comparator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/thanks" vcs="Git" />
+  </component>
+</project>
